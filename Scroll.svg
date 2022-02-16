@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="115" viewBox="0 0 68 115">
+  <g id="Scroll" transform="translate(-211 -806)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(211 806)" fill="rgba(255,255,255,0)" stroke="#fefefe" stroke-width="6">
+      <rect width="68" height="115" rx="34" stroke="none"/>
+      <rect x="3" y="3" width="62" height="109" rx="31" fill="none"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(227 821)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+      <circle cx="18.5" cy="18.5" r="18" fill="none"/>
+    </g>
+  </g>
+</svg>

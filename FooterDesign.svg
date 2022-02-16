@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="485" height="485" viewBox="0 0 485 485">
+  <g id="FooterDesign" transform="translate(-1438 -5181)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1760 5181)" fill="#b1b0b0" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1600 5343)" fill="#cbc6c6" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="161" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="160" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(1438 5504)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1761 5504)" fill="#333232" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1761 5343)" fill="#090909" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="161" rx="65" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="160" rx="64.5" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1600 5504)" fill="#5e5d5d" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="162" rx="65" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="161" rx="64.5" fill="none"/>
+    </g>
+  </g>
+</svg>

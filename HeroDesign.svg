@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="647" height="646" viewBox="0 0 647 646">
+  <g id="HeroDesign" transform="translate(-1075 -282)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1397 282)" fill="#b1b0b0" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1237 444)" fill="#cbc6c6" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="161" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="160" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(1075 605)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1235 767)" fill="#949393" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="161" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="160" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1398 605)" fill="#333232" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="162" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="161" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(1560 444)" fill="#5e5d5d" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="161" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="160" rx="23.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1398 444)" fill="#090909" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="162" height="161" rx="65" stroke="none"/>
+      <rect x="0.5" y="0.5" width="161" height="160" rx="64.5" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1237 605)" fill="#5e5d5d" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="161" height="162" rx="65" stroke="none"/>
+      <rect x="0.5" y="0.5" width="160" height="161" rx="64.5" fill="none"/>
+    </g>
+  </g>
+</svg>
